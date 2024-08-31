@@ -1,0 +1,49 @@
+h2 {
+  font-family: "Times New Roman";
+}
+.start{
+
+}
+h1 {
+  font-style: italic;
+  font-family: "cursive";
+
+}
+.king-queen{
+  text-align: center;
+  font-style: italic;
+  font-family: cursive;
+  font-size: xxx-large;
+}
+.heart{
+  text-align: center;
+}
+p {
+  font-family: "Malayalam MN";
+  font-size: large;
+}
+.addon{
+  text-align: center;
+  font-size: medium;
+  text-decoration: underline;
+}
+.date{
+  font-size: xx-large;
+}
+.month{
+  font-size: xx-large;
+}
+.day{
+  font-size: xx-large;
+}
+.heading {
+  text-align: center;
+}
+.line {
+  margin-right: 20vw;
+  margin-left: 20vw;
+  margin-bottom: 10px;
+  min-width: calc(100vw - 40vw);
+  min-height: 5px;
+  border-bottom: 2px solid black;
+}
